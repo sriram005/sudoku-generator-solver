@@ -21,6 +21,6 @@ Sudoku Solver and Generator with GUI – a dynamic application that brings the c
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/9c5zGYZ)
-![App Screenshot](https://ibb.co/M8d1QL4)
-
+<img src="/Screenshots/empty-puzzle.png" width="50%" height="50%"/> 
+<img src="/Screenshots/generated-puzzle.png" width="50%" height="50%"/>
+<img src="/Screenshots/solved-puzzle.png" width="50%" height="50%"/>
